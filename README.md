@@ -40,6 +40,7 @@ I'm an undergraduate studying astronomy & astrophysics, working at the intersect
 - **[Project Three Name](https://github.com/YOUR-USERNAME/REPO)** — one-line description.
 !-->
 
+<!--
 ---
 
 ### GitHub stats
@@ -54,6 +55,8 @@ I'm an undergraduate studying astronomy & astrophysics, working at the intersect
 </p>
 
 ---
+!-->
 
 <p align="center"><i>"To stand, walk, jump, sit, and lie down. These are the most common of behaviors."</i></p>
-<p align="center"><i>"Have you ever wondered why we were born following such laws? Who stipulated that we could not fly instead of walk?" — Dottore</i></p>
+<p align="center"><i>"Have you ever wondered why we were born following such laws? Who stipulated that we could not fly instead of walk?"</i></p>
+<p align="center"><i> — Exalted Master of the Heretical Path, Heretic of the False Moon, the Second of the Eleven Fatui Harbingers, Il Dottore</i></p>
