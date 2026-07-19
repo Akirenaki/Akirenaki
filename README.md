@@ -45,12 +45,12 @@ I'm an undergraduate studying astronomy & astrophysics, working at the intersect
 ### GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2dd4bf&icon_color=14b8a6&text_color=c9d1d9" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2dd4bf&text_color=c9d1d9" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Akirenaki&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2dd4bf&icon_color=14b8a6&text_color=c9d1d9" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akirenaki&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2dd4bf&text_color=c9d1d9" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=tokyonight&hide_border=true&background=0d1117&ring=14b8a6&fire=2dd4bf&currStreakLabel=2dd4bf" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkirenakiE&theme=tokyonight&hide_border=true&background=0d1117&ring=14b8a6&fire=2dd4bf&currStreakLabel=2dd4bf" />
 </p>
 
 ---
