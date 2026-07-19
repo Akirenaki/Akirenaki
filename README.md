@@ -1,4 +1,5 @@
 <h1 align="center">Hi, I'm Renee Astraea 👋</h1>
+<p align="center">Unfortunately legally known as Narendra</p>
 <h3 align="center">Astrophysics · Data science</h3>
 
 <p align="center">
