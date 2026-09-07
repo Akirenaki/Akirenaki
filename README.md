@@ -16,6 +16,7 @@
 
 I'm an undergraduate studying astronomy & astrophysics, working at the intersection of **observational data, statistics, and code**. Most of what I build is aimed at turning messy datasets into something you can actually reason about — whether that's survey data, HDI/human-rights datasets, or telescope observations.
 
+- You can check my [Portfolio](https://akirenaki.github.io/Portfolio) for more information!
 - 🔭 Currently learning: Python for scientific data analysis
 - 📊 Recent project: [Astronomy Multi-Catalogue Cross-matcher](https://github.com/Akirenaki/astronomy-multi-catalog-cross-matcher)
 
