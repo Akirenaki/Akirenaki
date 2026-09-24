@@ -14,7 +14,13 @@
 
 ### About me
 
-I'm an undergraduate studying astronomy & astrophysics, working at the intersection of **observational data, statistics, and code**. Most of what I build is aimed at turning messy datasets into something you can actually reason about — whether that's survey data, HDI/human-rights datasets, or telescope observations.
+I am an aspiring astrophysicist dedicated to investigating physical systems through computational modelling, statistical inference, and large-scale data analysis. My objective is to contribute to observational and computational research by leveraging quantitative methodologies to extract insights from complex astronomical datasets.
+
+Driven by a commitment to open science and the democratisation of research, I advocate for accessible scientific data infrastructure, transparent methodologies, and collaborative knowledge-sharing. I also engage in human rights advocacy, focusing on gender equity, LGBTQ+ rights, and racial justice. 
+
+Alongside my core scientific and social focus, I specialise in information architecture and structural synthesis, regularly aggregating, cross-referencing, and reconciling disparate qualitative data sources to build unified, logically coherent systems. This strengthens my pattern recognition, systematic literature review, and technical documentation.
+
+Though I am legally known as Raden Bagus Narendra Tsaqiif Aryasuta Maldini, I operate professionally and academically as Renee Astraea.
 
 - You can check my [Portfolio](https://akirenaki.github.io/) for more information!
 - 🔭 Currently learning: Python for scientific data analysis
